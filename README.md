@@ -1,2 +1,3 @@
 # Projeto_Poo
-Teste de aprendizado do Git Hub
+GitHub do projeto Posto de Gasolina - Disciplina Poo.
+
